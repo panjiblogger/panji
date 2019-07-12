@@ -1,0 +1,2 @@
+# panji
+ini safelink
